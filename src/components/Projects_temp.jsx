@@ -13,7 +13,7 @@ function Projects() {
       description:
         "Personal portfolio built using React to showcase projects and skills.",
       tech: "React, CSS",
-      github: "https://github.com/palak-singh01/portfolio",
+      github: "https://github.com/palak-singh01/my-portfolio",
       live: "",
     },
     {
